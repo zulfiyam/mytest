@@ -1,3 +1,4 @@
 # mytest
 
-chai
+cha
+huyi
