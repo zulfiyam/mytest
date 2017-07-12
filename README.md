@@ -1,5 +1,6 @@
 # mytest
 
-chai
+cha
 
 good
+
